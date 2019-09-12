@@ -4,7 +4,7 @@
 C++11
 
 ## Running the Code
-### Sequential
+### Sequential Program
 #### Compile
 ```c++
 g++ -std=c++11 -O3 <fileName.cpp> -o <output fileName>
@@ -13,7 +13,7 @@ g++ -std=c++11 -O3 <fileName.cpp> -o <output fileName>
 ```c++
 ./<output fileName> <inputFile.txt> <no_of_Iterations>
 ```
-### Parallel
+### Parallel Program
 #### Compile 
 ```c++
 g++ -std=c++11 -O3 -pthread <fileName.cpp> -o <output fileName>
@@ -23,7 +23,7 @@ g++ -std=c++11 -O3 -pthread <fileName.cpp> -o <output fileName>
 ./<output fileName> <inputFile.txt> <no_of_Iterations> <parallelism degree>
 ```
 
-### FastFlow
+### FastFlow Program
 ```c++
 export FF_HOME=$HOME/fastflow
 ```

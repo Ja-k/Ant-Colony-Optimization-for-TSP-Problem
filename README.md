@@ -36,4 +36,4 @@ g++ -std=c++11 -Wall -DNO_DEFAULT_MAPPING -O3 -I $FF_HOME <fileName.cpp> -o <out
 ./<output fileName> <inputFile.txt> <no_of_Iterations> <parallelism degree>
 ```
 ##### Note
-The FastFlow program is executed on the server available for students at the University of Pisa. For running the FastFlow code on your system you can download FastFlow library from it's [Github](https://github.com/fastflow/fastflow) repository.
+The FastFlow program is executed on the server available for students at the University of Pisa. For running the FastFlow code on your system you can download FastFlow library from it's [GitHub](https://github.com/fastflow/fastflow) repository.

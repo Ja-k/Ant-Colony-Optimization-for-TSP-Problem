@@ -8,7 +8,7 @@ C++11
 Compile : >>
 ```c++
 g++ -std=c++11 -O3 <fileName.cpp> -o <output fileName>
-	```
+```
 Run	: >> ./<output fileName> <inputFile.txt> <no_of_Iterations>
 
 ### Parallel

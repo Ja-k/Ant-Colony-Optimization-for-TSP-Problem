@@ -13,7 +13,7 @@ g++ -std=c++11 -O3 <fileName.cpp> -o <output fileName>
 ```c++
 ./<output fileName> <inputFile.txt> <no_of_Iterations>
 ```
-Example of "inputFile.txt" could be found [here](./194.txt).
+Example of "inputFile.txt" could be found [here](./ACOParallel/194.txt).
 ### Parallel Program
 #### Compile 
 ```c++
